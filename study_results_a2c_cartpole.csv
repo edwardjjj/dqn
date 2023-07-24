@@ -1,3 +1,0 @@
-,number,value,datetime_start,datetime_complete,duration,params_activation_fn,params_exponent_n_steps,params_gamma,params_learning_rate,params_max_grad_norm,params_net_arch,user_attrs_gamma_,user_attrs_n_steps,state
-0,0,9.34,2023-07-24 21:23:33.897046,2023-07-24 21:24:05.985234,0 days 00:00:32.088188,tanh,5,0.000226042995734092,0.2877099916874422,0.3108886567458257,small,0.9997739570042659,32,COMPLETE
-1,1,,2023-07-24 21:24:05.985600,2023-07-24 21:24:19.734110,0 days 00:00:13.748510,relu,5,0.0028855431721190633,0.07360670225038596,1.9915091361367014,small,0.9971144568278809,32,FAIL
