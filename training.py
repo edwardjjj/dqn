@@ -25,7 +25,7 @@ from stable_baselines3.common.callbacks import EvalCallback
 # print(f"PPO mean episode reward: {mean_reward:.2f} +/- {std_reward:.2f}")
 
 N_TRAILS = 100
-N_JOBS = 1
+N_JOBS = 5
 N_STARTUP_TRAILS = 5
 N_EVALUATIONS = 2
 N_TIMESTEPS = int(2e4)
